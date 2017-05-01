@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bienjaroslav/vaadin-fam3-silk-icons-addon.svg?branch=master)](https://travis-ci.org/bienjaroslav/vaadin-fam3-silk-icons-addon)
+
 # Famfamfam Silk Icons addon for Vaadin
 
 Famfamfam Silk Icons addon for Vaadin provides you with the ability to use your Vaadin UI components with the image icons by
