@@ -34,7 +34,7 @@ button.setIcon(icon);
 
 Add following Maven dependency into your pom.xml:
 
-```
+```xml
 <dependency>
     <groupId>org.rubicone.vaddons</groupId>
     <artifactId>fam3-silk-icons</artifactId>
@@ -47,7 +47,7 @@ Official releases of this add-on are available at Vaadin Directory. For Maven in
 
 ## Building and running demo
 
-```
+```bash
 git clone https://github.com/bienjaroslav/vaadin-fam3-silk-icons-addon.git
 mvn clean install
 cd demo
