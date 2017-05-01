@@ -10,7 +10,7 @@ Famfamfam Silk Icons addon for Vaadin provides you with the ability to use your 
 ## Using icon for Vaadin UI components
 Just set the icon to any standard Vaadin UI component using its `setIcon()` method.
 
-You can use the class [Fam3SilkIcon](https://github.com/bienjaroslav/vaadin-fam3-silk-icons-addon/vaadin-fam3-silk-icons/src/main/java/org/rubicone/vaadin/fam3/silk/Fam3SilkIcon.java)
+You can use the class [Fam3SilkIcon](https://github.com/bienjaroslav/vaadin-fam3-silk-icons-addon/tree/master/fam3-silk-icons/src/main/java/org/rubicone/vaadin/fam3/silk/Fam3SilkIcon.java)
  with enumerated all the icons from the set, example of usage:
 
 ```java
@@ -19,7 +19,7 @@ button.setCaption("OK");
 button.setIcon(Fam3SilkIcon.ACCEPT);
 ```
 
-Alternatively you may use class [Fam3SilkIcons](https://github.com/bienjaroslav/vaadin-fam3-silk-icons-addon/vaadin-fam3-silk-icons/src/main/java/org/rubicone/vaadin/fam3/silk/Fam3SilkIcons.java)
+Alternatively you may use class [Fam3SilkIcons](https://github.com/bienjaroslav/vaadin-fam3-silk-icons-addon/tree/master/fam3-silk-icons/src/main/java/org/rubicone/vaadin/fam3/silk/Fam3SilkIcons.java)
  to get the icon by its filename (comparing to above, this approach does not
  load all the icons from the set into memory). Example of usage by specifying filename:
 
