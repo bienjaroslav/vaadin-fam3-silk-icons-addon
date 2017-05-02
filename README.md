@@ -7,6 +7,8 @@ Famfamfam Silk Icons addon for Vaadin provides you with the ability to use your 
 
 ![fam3 silk icons usage](screenshot.png "fam3 silk icons usage")
 
+Famfamfam Silk free icons set contains 1000 image icons, you may see them in the [preview](http://www.famfamfam.com/lab/icons/silk/previews/index_abc.png).
+
 ## Using icon for Vaadin UI components
 Just set the icon to any standard Vaadin UI component using its `setIcon()` method.
 
@@ -71,6 +73,6 @@ Please do not forget to provide attribution in your work
 
 ## Links
  - [Famfamfam Silk Icons by Mark James](http://www.famfamfam.com/lab/icons/silk/)
- - [All Famfamfam Silk Icons overview](http://www.famfamfam.com/lab/icons/silk/previews/index_abc.png)
+ - [Famfamfam Silk Icons preview](http://www.famfamfam.com/lab/icons/silk/previews/index_abc.png)
  - [Famfamfam Silk Icons Search](http://www.dustball.com/icons/)
  - [Famfamfam Silk Icons Vaadin Addon's homepage](https://vaadin.com/addon/fam3-silk-icons)
