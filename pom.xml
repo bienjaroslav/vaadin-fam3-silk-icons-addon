@@ -10,6 +10,7 @@
     <modules>
         <module>fam3-silk-icons</module>
         <module>fam3-silk-icons-demo</module>
+        <module>fam3-silk-icons-demov7</module>
     </modules>
 
 </project>
