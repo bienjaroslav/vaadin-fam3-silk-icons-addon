@@ -13,6 +13,7 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  */
+
 package org.rubicone.vaadin.fam3.silk;
 
 import com.vaadin.server.ExternalResource;
@@ -56,6 +57,7 @@ public class Fam3SilkIconsTest {
         
         Assert.assertNotNull(result);
     }
+    
     @Test
     public void testGetByFileName_notExistingFile_mimeTypeNotNUll() {
         String iconFileName = "a.png";

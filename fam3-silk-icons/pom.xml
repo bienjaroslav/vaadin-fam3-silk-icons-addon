@@ -5,7 +5,7 @@
    
     <groupId>org.rubicone.vaddons</groupId>
     <artifactId>fam3-silk-icons</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <name>Fam3 Silk Icons</name>
     
@@ -13,8 +13,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <vaadin.version>8.0.5</vaadin.version>
-        <vaadin.plugin.version>8.0.5</vaadin.plugin.version>
+        <vaadin.version>8.0.6</vaadin.version>
+        <vaadin.plugin.version>8.0.6</vaadin.plugin.version>
                 
         <!-- ZIP Manifest fields -->
         <Implementation-Version>${project.version}</Implementation-Version>

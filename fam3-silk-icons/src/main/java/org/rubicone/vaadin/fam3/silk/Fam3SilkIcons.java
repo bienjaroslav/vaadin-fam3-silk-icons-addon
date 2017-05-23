@@ -13,13 +13,14 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  */
+
 package org.rubicone.vaadin.fam3.silk;
 
 import com.vaadin.server.ExternalResource;
 import com.vaadin.shared.ApplicationConstants;
 
 /**
- * Famfamfam silk icons. Provides icons by their filename. You may want to use as well directly the {@link Fam3SilkIcon}.
+ * Famfamfam silk icons. Provides icons by specifying their filename. You may want to use as well directly the {@link Fam3SilkIcon}.
  * <p>
  * <b>Usage:</b><br>
  * <code>
