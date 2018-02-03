@@ -13,3 +13,5 @@ hs_err_pid*
 /fam3-silk-icons/target/
 /fam3-silk-icons-demo/target/
 /fam3-silk-icons-demov7/target/
+/fam3-silk-icons-demov7/src/main/webapp/VAADIN/themes/silkiconsaddondemotheme/styles.css
+/fam3-silk-icons-demo/src/main/webapp/VAADIN/themes/silkiconsaddondemotheme/styles.css

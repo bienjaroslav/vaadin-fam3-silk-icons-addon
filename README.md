@@ -60,6 +60,10 @@ To see the demo, navigate to http://localhost:8080/
 
 Alternatively you may deploy the demo war into your application server.
 
+## Online demo
+
+You can see the online demo on [Heroku](https://vaadin-fam3-silk-icons-demo.herokuapp.com/).
+
 ## Famfamfam Silk Icons collection
 
 The Famfamfam Silk Icons are created by [Mark James](http://www.famfamfam.com/lab/icons/silk/). 
